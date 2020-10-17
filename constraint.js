@@ -43,7 +43,7 @@ class Chain{
         stroke(113, 105, 88);
         line(A.x, A.y, B.x, B.y);
 
-        console.log(this.body);
+        
 
 
         }
